@@ -1,4 +1,4 @@
-# ![Java Icon](https://cdn-icons-png.flaticon.com/512/226/226777.png) Flashcards Java Core – Phỏng vấn & Ôn tập
+# <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Icon" width="24" height="24" /> Flashcards Java Core – Phỏng vấn & Ôn tập
 
 ### ✨ Sử dụng cho học tập, phỏng vấn hoặc in ấn
 
