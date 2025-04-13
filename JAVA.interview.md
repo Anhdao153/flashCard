@@ -1,4 +1,4 @@
-## 📚 Flashcards Java Core – Phỏng vấn & Ôn tập
+# ![Java Icon](https://cdn-icons-png.flaticon.com/512/226/226777.png) Flashcards Java Core – Phỏng vấn & Ôn tập
 
 ### ✨ Sử dụng cho học tập, phỏng vấn hoặc in ấn
 
